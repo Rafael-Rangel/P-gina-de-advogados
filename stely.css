@@ -1,0 +1,179 @@
+.topbar{
+  height: 85px;
+  border-bottom: 5px solid orange;
+  background: linear-gradient( 200deg, black, rgb(104, 104, 104), 90%, black)
+
+}
+
+
+.cabeçalho{
+  width: 500px;
+  font-family: Tahoma, sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+  color: rgb(255, 255, 255);
+  text-align:center;
+padding-top: 25px;
+margin: auto;
+}
+
+#botão1{
+  border-radius: 8px;
+  width: 60px;
+  height: 2px;
+  margin-left: 10px;
+}
+
+#botões{
+  border-radius: 8px;
+  width: 60px;
+  height: 0px;
+  margin-left: 5px;
+}
+
+.referencia:hover{
+  text-decoration: underline;
+  padding: 8.2px;
+}
+
+.referencia{
+  padding-left: 15px;
+  padding: 5px 8px;
+  font-size: 15px;
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+}
+
+.titulo{
+  max-width: 888px;
+  padding: 30px;
+  font-size: 25px;
+  line-height: 50px;
+  font-family: sans-serif;
+ margin: auto;
+ padding-bottom: 0px;
+}
+
+.subt{
+  width: 888px;
+  font-size: 18px;
+  font-family: 'Open Sans',sans-serif;
+  font-weight: 400;
+  color: #555;
+  margin: auto;
+  padding-bottom: 30px;
+  padding-top: 10px;
+}
+
+.autor{
+  color: #555;
+  font-family: sans-serif;
+  font-weight: 600;
+  font-size: 15px;
+  max-width: 888px;
+  padding: 30px;
+  padding-top: 0px;
+  padding-bottom: 10px;
+  margin: auto;
+}
+
+.data{
+  font-size: 12px;
+  max-width: 888px;
+  padding: 30px;
+  padding-top: 0px;
+  margin: auto;
+  padding-bottom: 10px;
+}
+.sociais{
+  margin: auto;
+  padding: 10px 10px 0px 0px;
+  max-width: 888px;
+}
+.social{
+  width: 20px;
+  margin-left: 5px;
+}
+
+a{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 800;
+  text-decoration: none;
+  color: orange;
+  font-weight: 700;
+}
+
+.parágrafo{
+  width: 648px;
+  margin: auto;
+  font-weight: 400;
+  text-align: justify ;
+}
+
+#texto1{
+  font-family: 'Open Sans', sans-serif;
+  margin-top: 0px;
+  padding-top: 0px;
+  margin-bottom: 0px;
+  font-size: 18px;
+  line-height: 32px;
+  padding-left: 40px;
+  padding: 30px;
+}
+
+#cta{
+  font-family: 'Open Sans', sans-serif;
+  width: 585px;
+  font-size: 18px;
+  font-weight: 400;
+  margin:auto;
+  color: #333
+}
+
+.div{
+  width: 590px;
+  height: 400px;
+  margin:auto;
+}
+
+
+.figure{
+  width: 590px;
+  height: 410px;
+  margin: auto;
+}
+
+.legenda{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+}
+
+#cta2{
+  font-family: 'Open Sans', sans-serif;
+  width: 590px;
+  font-size: 18px;
+  margin:auto;
+  color: #333
+}
+
+
+#texto2{
+  font-family: 'Open Sans', sans-serif;
+  margin-bottom: 0px;
+  font-size: 18px;
+  line-height: 32px;
+  padding-left: 40px;
+  padding: 30px;
+}
+
+h2{
+  font-family: 'Open Sans', sans-serif;
+  width: 590px;
+   font-size: 24px;
+   font-weight: 700;
+  margin: auto;
+}
+
+body{ padding: 0;
+  margin: 0;
+}
