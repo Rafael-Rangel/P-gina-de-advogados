@@ -637,5 +637,10 @@ margin-bottom:5px;
 #contact{
 	justify-content: center
 }
+header{
+width: 100vw;
+display: flex;
+justify-content: center;
+}
 
 }
