@@ -590,4 +590,52 @@ footer {
 	font-size: 24px;
 	margin-top: -30px;
 	}
+	.social-media, .sumir{
+	display: none;
+
+}
+
+
+.row{
+	justify-content: space-between;
+
+}
+
+
+}
+
+
+
+
+@media screen and (max-width:439px) {
+
+	.sumir2{
+		display:none
+	}
+	#banner h2 {
+		font-size: 50px;
+		  top: 35%;
+	}
+
+	.service-item{
+margin: auto;
+margin-bottom:5px;
+
+	}
+
+.button{
+
+	font-size: 17px;
+	padding:9px
+
+}
+
+#contact .map-container{
+	display:none;
+}
+
+#contact{
+	justify-content: center
+}
+
 }
